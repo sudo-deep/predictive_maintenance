@@ -1,11 +1,6 @@
-'''
-Author: Deepansh Goel
-Date: 30-10-23
-'''
-
 # Import necessary modules
 import sys
-from src.logger import logging
+from src.logger import logging  
 
 # Function to generate a detailed error message
 # Parameters:
