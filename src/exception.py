@@ -1,8 +1,6 @@
 # Import necessary modules
 import sys
 
-
-
 # Function to generate a detailed error message
 # Parameters:
 #   error (str): The error message or description.
